@@ -1,0 +1,18 @@
+total 108
+drwxr-xr-x 2 root root  4096  9월 16 19:18 .
+drwxr-xr-x 4 root root  4096  9월 15 23:32 ..
+-rw-r--r-- 1 root root 94304  9월 15 23:09 linux.txt
+-rw-r--r-- 1 root root    38  9월 15 23:36 one.txt
+-rw-r--r-- 1 root root     0  9월 16 19:18 result.txt
+total 112
+drwxr-xr-x 2 root root  4096  9월 16 19:18 .
+drwxr-xr-x 4 root root  4096  9월 15 23:32 ..
+-rw-r--r-- 1 root root 94304  9월 15 23:09 linux.txt
+-rw-r--r-- 1 root root    38  9월 15 23:36 one.txt
+-rw-r--r-- 1 root root   264  9월 16 19:18 result.txt
+total 112
+drwxr-xr-x 2 root root  4096  9월 16 19:18 .
+drwxr-xr-x 4 root root  4096  9월 15 23:32 ..
+-rw-r--r-- 1 root root 94304  9월 15 23:09 linux.txt
+-rw-r--r-- 1 root root    38  9월 15 23:36 one.txt
+-rw-r--r-- 1 root root   528  9월 16 19:18 result.txt
