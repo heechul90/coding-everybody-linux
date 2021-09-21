@@ -1,7 +1,6 @@
 # linux
 # leaning linux
 
-
 ## 우분투에서 실습
 ## virtualbox setup and download ubuntu
 
