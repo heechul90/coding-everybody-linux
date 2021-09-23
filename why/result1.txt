@@ -1,0 +1,7 @@
+total 112
+drwxr-xr-x 2 root root  4096  9월 23 20:21 .
+drwxr-xr-x 5 root root  4096  9월 16 19:44 ..
+-rw-r--r-- 1 root root 94304  9월 15 23:09 linux.txt
+-rw-r--r-- 1 root root    38  9월 15 23:36 one.txt
+-rw-r--r-- 1 root root     0  9월 23 20:21 resul1.txt
+-rw-r--r-- 1 root root   792  9월 16 19:18 result.txt
