@@ -3,6 +3,7 @@
 
 ## 우분투에서 실습
 ## virtualbox setup and download ubuntu
+## ubuntu 20.04
 
 
 ## git 캐시 설정
